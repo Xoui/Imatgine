@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* Horizontal centering */
+    justify-content: center; /* Vertical centering */
+    height: 200px; /* You can adjust this value based on your needs */
+    text-align: center; /* For inline elements like text and inline-block elements */
+}
+intro{
+    font-style: bold;
+    font-size: 15px;
+}
